@@ -6,4 +6,4 @@
            
            - 📫 How to reach me: atiqafayyaz1122@gmail.com
            
-           - ⚡ Fun fact: programming 
+           - ⚡ Fun fact: programming
