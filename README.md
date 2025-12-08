@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying at **UET** as a Computer Science student
 - 💻 I love building projects in **C++, C#, Python, SQL, and WinForms**
-- 🌱 I’m currently learning **Full-Stack Development and Advanced Python Projects**
+- 🌱 I’m currently learning **Full-Stack Development**
 - 📫 How to reach me: **atiqafayyaz1122@gmail.com**
-- ⚡ Fun fact: I enjoy **solving logical puzzles and programming mini games**
+- ⚡ Fun fact: I enjoy **solving logical puzzles and creating mini programming projects**
 
 ---
 
@@ -32,9 +32,9 @@
 ---
 
 <h3 align="left">Projects / Portfolio:</h3>
-- **Library Management System** – C++, CRUD & user management
-- **Pac-Man Game** – C++ console application
-- **AutoParts Inventory Management System** – C#, WinForms / .NET Framework
+- **Library Management System** – C++, CRUD & user management <br>
+- **Pac-Man Game** – C++ console application<br>
+- **AutoParts Inventory Management System** – C#, WinForms / .NET Framework<br>
 - **Solitaire** – Python, PyQt5
 
 ---
