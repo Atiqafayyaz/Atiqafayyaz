@@ -27,34 +27,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   </a>
 
-  <a href="https://dotnet.microsoft.com/en-us/apps/windows/apps-with-winforms" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Winforms.png" alt="winforms" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
 <h3 align="left">Projects / Portfolio:</h3>
-- **Library Management System** – C# & SQL based, CRUD & user management
-- **Auto Arsenal** – Python & SQL, inventory management system
-- **Pac-Man Game** – C++ console & C# WinForms version
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
+- **Library Management System** – C++, CRUD & user management
+- **Pac-Man Game** – C++ console application
+- **AutoParts Inventory Management System** – C#, WinForms / .NET Framework
+- **Solitaire** – Python, PyQt5
 
 ---
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/atiqa-fayyaz-1431ab330/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Atiqafayyaz/Atiqafayyaz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
