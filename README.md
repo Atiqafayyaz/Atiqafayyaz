@@ -35,7 +35,7 @@
 - **Library Management System** – C++, CRUD & user management <br>
 - **Pac-Man Game** – C++ console application<br>
 - **AutoParts Inventory Management System** – C#, WinForms / .NET Framework<br>
-- **Solitaire** – Python, PyQt5
+- **Solitaire** – Python, PyQt5<br>
 - **Code Analyzer** – Python, React+Typescript, FastAPI, DSA
 
 
