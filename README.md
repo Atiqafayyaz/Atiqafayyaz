@@ -36,6 +36,8 @@
 - **Pac-Man Game** – C++ console application<br>
 - **AutoParts Inventory Management System** – C#, WinForms / .NET Framework<br>
 - **Solitaire** – Python, PyQt5
+- **Code Analyzer** – Python, React+Typescript, FastAPI, DSA
+
 
 ---
 
