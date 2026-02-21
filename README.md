@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying at **UET** as a Computer Science student
 - 💻 I love building projects in **C++, C#, Python, SQL, and WinForms**
 - 🌱 I’m currently learning **Full-Stack Development**
-- 📫 How to reach me: **atiqafayyaz1122@gmail.com**
+- 📫 How to reach me: **atiqafayyaz07@gmail.com**
 - ⚡ Fun fact: I enjoy **solving logical puzzles and creating mini programming projects**
 
 ---
