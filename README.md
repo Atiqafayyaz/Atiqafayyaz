@@ -2,8 +2,8 @@
 <h3 align="center">BSc Computer Science Student | Programmer</h3>
 
 - 🔭 I’m currently studying at **UET** as a Computer Science student
-- 💻 I love building projects in **C++, C#, Python, SQL, and WinForms**
-- 🌱 I’m currently learning **Full-Stack Development**
+- 💻 I love building projects in **C++, C#, Python, React, and Node.js** I'm always excited to learn new technologies and improve my development skills.
+- 🌱 I’m currently learning **Artificial Intelligence** 
 - 📫 How to reach me: **atiqafayyaz07@gmail.com**
 - ⚡ Fun fact: I enjoy **solving logical puzzles and creating mini programming projects**
 
