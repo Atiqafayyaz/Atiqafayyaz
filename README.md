@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ATIQA FAYYAZ</h1>
-<h3 align="center">BSc Computer Science Student | Programmer</h3>
+<h3 align="center">BS Computer Science Student | Programmer</h3>
 
 - 🔭 I’m currently studying at **UET** as a Computer Science student
 - 💻 I love building projects in **C++, C#, Python, React, and Node.js** 
